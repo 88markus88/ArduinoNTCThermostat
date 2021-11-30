@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"name": "EnovMonitor680-Git",
+			"path": "..\\EnvMonitor680-Git\\test\\EnovMonitor680-Git"
+		},
+		{
+			"name": "NTC_Test",
+			"path": "..\\..\\PlatformIO\\Projects\\NTC_Test"
+		},
+		{
+			"name": "VirtuinoTest",
+			"path": "..\\..\\PlatformIO\\Projects\\VirtuinoTest"
+		},
+		{
+			"name": "ThingspeakTest",
+			"path": "..\\..\\PlatformIO\\Projects\\ThingspeakTest"
+		},
+		{
+			"name": "ArduinoNTCThermostat",
+			"path": "..\\..\\PlatformIO\\Projects\\ArduinoNTCThermostat"
+		},
+		{
+			"name": "Bluetooth Test",
+			"path": "..\\..\\PlatformIO\\Projects\\Bluetooth Test"
+		},
+		{
+			"name": "Captive Portal",
+			"path": "..\\..\\PlatformIO\\Projects\\Captive Portal"
+		},
+		{
+			"name": "Test Syslog",
+			"path": "..\\..\\PlatformIO\\Projects\\Test Syslog"
+		},
+		{
+			"name": "ArduinoNTCThermostat",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}
