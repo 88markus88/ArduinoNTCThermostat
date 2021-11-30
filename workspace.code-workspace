@@ -17,10 +17,6 @@
 			"path": "..\\..\\PlatformIO\\Projects\\ThingspeakTest"
 		},
 		{
-			"name": "ArduinoNTCThermostat",
-			"path": "..\\..\\PlatformIO\\Projects\\ArduinoNTCThermostat"
-		},
-		{
 			"name": "Bluetooth Test",
 			"path": "..\\..\\PlatformIO\\Projects\\Bluetooth Test"
 		},
