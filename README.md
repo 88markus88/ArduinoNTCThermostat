@@ -1,6 +1,8 @@
 # ArduinoNTCThermostat
-This project is an Arduino based Thermostat for universal use. It contains the Arduino code and the KiCad files for the board.
-The thermostat is intended to be used standalone in 12V or 24 V environments. It's settings for cooling or heating mode, for the target temperature and the hysteresis can be set without recompilation using a bridge (heating/cooling) and DIP switches (target temperature and hysteresis). A relay is fitted that can switch up to 250V and 10A.
+This project is an Arduino based Thermostat for universal use. I put it together rather quick&dirty since I needed a simple thermostat, and I could not find one that fit my needs...
+The project contains the Arduino code and the KiCad files for the board.
+
+I ended up with a rather generic setup, that may be of use to others. The thermostat is intended to be used standalone in 12V or 24 V environments. It's settings for cooling or heating mode, for the target temperature and the hysteresis can be set without recompilation using a bridge (heating/cooling) and DIP switches (target temperature and hysteresis). A relay is fitted that can switch up to 250V and 10A.
 A SSD1306 compatible OLED display can be fitted as an option to display detailed information.
 
 ## Features:
