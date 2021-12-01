@@ -1,11 +1,15 @@
 # ArduinoNTCThermostat
 This project is an Arduino based Thermostat for universal use. It contains the Arduino code and the KiCad files for the board.
+The thermostat is intended to be used standalone in 12V or 24 V environments. It's settings for cooling or heating mode, for the target temperature and the hysteresis can be set without recompilation using a bridge (heating/cooling) and DIP switches (target temperature and hysteresis). A relay is fitted that can switch up to 250V and 10A.
+A SSD1306 compatible OLED display can be fitted as an option to display detailed information.
 
 ## Features:
+- Temperature measurement is done via a 10K NTC sensor
+- Powered using an efficient DCDC converter (Traco TSR 1-2450E pin compatible to 7805) for operation in range of 7-36 V DC. The thermostat can easily operate in 12 or 24 V installations.
 - Set for heating or cooling operation with a bridge
-- Set target temperature in 2°C steps via DIP switches
-- Set hysteresis via DIP switches
-- 250V 10A relay
+- Set target temperature fron 0 to 254 °C in 2°C steps via DIP switches
+- Set hysteresis from 0 to 14 °C in 2°C steps via DIP switches
+- 250V 10A relay. PCB design supports up to 10 A
 - 2 LEDs: power indicator and switch indicator
 - Optional OLED display via I2C
 
