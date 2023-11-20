@@ -25,7 +25,7 @@ The PCB has been designed in Kicad. Kicad files are included in this repository,
 ## Parts List
 - PCB: Gerber files are attached
 - Arduino Pro Micro (with socket, if desired)
-- Transistor
+- Transistor BC547
 - Electrolyte Capacitor 47 uF / 25V
 - Tantal Capacitor 100 nF
 - Opto Coupler LTV 817
@@ -36,3 +36,5 @@ The PCB has been designed in Kicad. Kicad files are included in this repository,
 - Screw Terminals 5.08 mm pitch: 2x 2, 1x 3 connections
 - Relay Songle SRD-05VDC-SL-C
 - Resistors: 200, 470 and 2 x 10K Ohm
+- NTC 10K
+- OLED Display (optional)
