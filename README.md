@@ -21,3 +21,18 @@ The PCB has been designed in Kicad. Kicad files are included in this repository,
 ![PCB](https://github.com/88markus88/ArduinoNTCThermostat/blob/main/Pictures/ArduinoNTCThermostat%20V0.2%20PCB.jpg)
 ![PCB](https://github.com/88markus88/ArduinoNTCThermostat/blob/main/Pictures/ArduinoNTCThermostat%20V0.2%203D-1.jpg)
 ![PCB](https://github.com/88markus88/ArduinoNTCThermostat/blob/main/Pictures/ArduinoNTCThermostat%20V0.2%203D-2.jpg)
+
+## Parts List
+- PCB: Gerber files are attached
+- Arduino Pro Micro (with socket, if desired)
+- Transistor
+- Electrolyte Capacitor 47 uF / 25V
+- Tantal Capacitor 100 nF
+- Opto Coupler LTV 817
+- 2 Diodes 1N4001 or 1N4004
+- 2 LEDs
+- Power via DCDC  Traco TSR 1-2450E, alternatively 7850
+- 10x DIP Switch
+- Screw Terminals 5.08 mm pitch: 2x 2, 1x 3 connections
+- Relay Songle SRD-05VDC-SL-C
+- Resistors: 200, 470 and 2 x 10K Ohm
