@@ -37,4 +37,5 @@ The PCB has been designed in Kicad. Kicad files are included in this repository,
 - Relay Songle SRD-05VDC-SL-C
 - Resistors: 200, 470 and 2 x 10K Ohm
 - NTC 10K
-- OLED Display (optional)
+- OLED Display with SSD1306 controller (optional)
+- Housing
